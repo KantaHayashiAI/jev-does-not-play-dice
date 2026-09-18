@@ -1,0 +1,422 @@
+[
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.69,
+    "probabilities": {
+      "face_4": 0.13,
+      "face_2": 0.02,
+      "face_5": 0.01,
+      "face_3": 0.11,
+      "face_6": 0.04,
+      "face_1": 0.69
+    },
+    "confidence": 0.62
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.72,
+    "probabilities": {
+      "face_3": 0.1,
+      "face_6": 0.04,
+      "face_5": 0.01,
+      "face_1": 0.72,
+      "face_2": 0.02,
+      "face_4": 0.11
+    },
+    "confidence": 0.67
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.73,
+    "probabilities": {
+      "face_4": 0.1,
+      "face_6": 0.04,
+      "face_5": 0.01,
+      "face_2": 0.02,
+      "face_1": 0.73,
+      "face_3": 0.1
+    },
+    "confidence": 0.68
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.73,
+    "probabilities": {
+      "face_4": 0.1,
+      "face_3": 0.1,
+      "face_6": 0.04,
+      "face_2": 0.02,
+      "face_5": 0.01,
+      "face_1": 0.73
+    },
+    "confidence": 0.69
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.73,
+    "probabilities": {
+      "face_4": 0.1,
+      "face_5": 0.01,
+      "face_1": 0.73,
+      "face_6": 0.05,
+      "face_3": 0.09,
+      "face_2": 0.02
+    },
+    "confidence": 0.67
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.71,
+    "probabilities": {
+      "face_5": 0.01,
+      "face_3": 0.11,
+      "face_4": 0.11,
+      "face_2": 0.02,
+      "face_6": 0.04,
+      "face_1": 0.71
+    },
+    "confidence": 0.66
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.73,
+    "probabilities": {
+      "face_1": 0.73,
+      "face_5": 0.01,
+      "face_6": 0.05,
+      "face_2": 0.02,
+      "face_4": 0.09,
+      "face_3": 0.1
+    },
+    "confidence": 0.68
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.71,
+    "probabilities": {
+      "face_1": 0.71,
+      "face_3": 0.12,
+      "face_6": 0.04,
+      "face_5": 0.01,
+      "face_4": 0.1,
+      "face_2": 0.02
+    },
+    "confidence": 0.65
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.74,
+    "probabilities": {
+      "face_4": 0.11,
+      "face_5": 0.01,
+      "face_6": 0.04,
+      "face_1": 0.74,
+      "face_3": 0.08,
+      "face_2": 0.02
+    },
+    "confidence": 0.69
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.73,
+    "probabilities": {
+      "face_6": 0.04,
+      "face_5": 0.01,
+      "face_4": 0.11,
+      "face_2": 0.02,
+      "face_1": 0.73,
+      "face_3": 0.09
+    },
+    "confidence": 0.67
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.71,
+    "probabilities": {
+      "face_1": 0.71,
+      "face_2": 0.02,
+      "face_6": 0.04,
+      "face_4": 0.1,
+      "face_5": 0.01,
+      "face_3": 0.12
+    },
+    "confidence": 0.66
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.73,
+    "probabilities": {
+      "face_6": 0.04,
+      "face_3": 0.1,
+      "face_5": 0.01,
+      "face_2": 0.02,
+      "face_1": 0.73,
+      "face_4": 0.1
+    },
+    "confidence": 0.67
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.71,
+    "probabilities": {
+      "face_4": 0.12,
+      "face_5": 0.01,
+      "face_1": 0.71,
+      "face_3": 0.09,
+      "face_6": 0.05,
+      "face_2": 0.02
+    },
+    "confidence": 0.66
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.73,
+    "probabilities": {
+      "face_5": 0.01,
+      "face_1": 0.73,
+      "face_2": 0.02,
+      "face_3": 0.1,
+      "face_6": 0.04,
+      "face_4": 0.1
+    },
+    "confidence": 0.68
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.75,
+    "probabilities": {
+      "face_3": 0.1,
+      "face_2": 0.02,
+      "face_1": 0.75,
+      "face_4": 0.08,
+      "face_5": 0.01,
+      "face_6": 0.04
+    },
+    "confidence": 0.71
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.72,
+    "probabilities": {
+      "face_1": 0.72,
+      "face_5": 0.01,
+      "face_6": 0.05,
+      "face_4": 0.1,
+      "face_2": 0.02,
+      "face_3": 0.1
+    },
+    "confidence": 0.67
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.7,
+    "probabilities": {
+      "face_1": 0.7,
+      "face_5": 0.01,
+      "face_4": 0.12,
+      "face_2": 0.02,
+      "face_6": 0.04,
+      "face_3": 0.11
+    },
+    "confidence": 0.64
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.72,
+    "probabilities": {
+      "face_5": 0.01,
+      "face_1": 0.72,
+      "face_2": 0.02,
+      "face_3": 0.12,
+      "face_6": 0.03,
+      "face_4": 0.1
+    },
+    "confidence": 0.66
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.73,
+    "probabilities": {
+      "face_1": 0.73,
+      "face_3": 0.11,
+      "face_6": 0.04,
+      "face_4": 0.09,
+      "face_5": 0.01,
+      "face_2": 0.02
+    },
+    "confidence": 0.68
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.73,
+    "probabilities": {
+      "face_4": 0.1,
+      "face_2": 0.02,
+      "face_6": 0.04,
+      "face_3": 0.1,
+      "face_1": 0.73,
+      "face_5": 0.01
+    },
+    "confidence": 0.68
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.74,
+    "probabilities": {
+      "face_5": 0.01,
+      "face_2": 0.02,
+      "face_1": 0.74,
+      "face_3": 0.09,
+      "face_4": 0.1,
+      "face_6": 0.04
+    },
+    "confidence": 0.7
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.71,
+    "probabilities": {
+      "face_1": 0.71,
+      "face_4": 0.09,
+      "face_5": 0.01,
+      "face_6": 0.04,
+      "face_3": 0.13,
+      "face_2": 0.02
+    },
+    "confidence": 0.65
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.75,
+    "probabilities": {
+      "face_2": 0.02,
+      "face_6": 0.04,
+      "face_1": 0.75,
+      "face_4": 0.08,
+      "face_5": 0.01,
+      "face_3": 0.1
+    },
+    "confidence": 0.69
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.73,
+    "probabilities": {
+      "face_4": 0.09,
+      "face_5": 0.01,
+      "face_1": 0.73,
+      "face_3": 0.1,
+      "face_6": 0.05,
+      "face_2": 0.02
+    },
+    "confidence": 0.68
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.73,
+    "probabilities": {
+      "face_2": 0.02,
+      "face_5": 0.01,
+      "face_4": 0.1,
+      "face_6": 0.04,
+      "face_3": 0.1,
+      "face_1": 0.73
+    },
+    "confidence": 0.69
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.76,
+    "probabilities": {
+      "face_6": 0.03,
+      "face_4": 0.1,
+      "face_5": 0.01,
+      "face_3": 0.08,
+      "face_1": 0.76,
+      "face_2": 0.02
+    },
+    "confidence": 0.71
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.72,
+    "probabilities": {
+      "face_3": 0.1,
+      "face_5": 0.01,
+      "face_6": 0.04,
+      "face_2": 0.02,
+      "face_4": 0.11,
+      "face_1": 0.72
+    },
+    "confidence": 0.67
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.72,
+    "probabilities": {
+      "face_2": 0.02,
+      "face_3": 0.1,
+      "face_1": 0.72,
+      "face_5": 0.01,
+      "face_4": 0.11,
+      "face_6": 0.04
+    },
+    "confidence": 0.66
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.7,
+    "probabilities": {
+      "face_3": 0.13,
+      "face_2": 0.02,
+      "face_6": 0.04,
+      "face_1": 0.7,
+      "face_5": 0.01,
+      "face_4": 0.1
+    },
+    "confidence": 0.65
+  },
+  {
+    "case": "uniform_die",
+    "choice": "face_1",
+    "top": 0.72,
+    "probabilities": {
+      "face_3": 0.11,
+      "face_6": 0.04,
+      "face_2": 0.02,
+      "face_4": 0.1,
+      "face_5": 0.01,
+      "face_1": 0.72
+    },
+    "confidence": 0.66
+  }
+]

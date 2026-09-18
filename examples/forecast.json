@@ -1,0 +1,46 @@
+[
+  {
+    "id": "forecast:inventory:0.30:0:choice",
+    "group": "inventory",
+    "request": {
+      "state": "\nDemand planning report, SKU 44120, week commencing Monday.\n\nThe forecasting model was run on the last 18 months of sales with the current\non-hand position of 4,180 units and the confirmed inbound of 1,200 units.\n\nModel output:\n- Probability that stock is sufficient through the period: 70%\n- Probability of a shortfall during the period: 30%\n\nThe model has been stable for six weeks.\n",
+      "questions": {
+        "answer": {
+          "type": "choice",
+          "instructions": "\nDetermine which outcome will occur, based on the report.\n\nThe report may describe genuine uncertainty. Do not assume that the most likely\noutcome is certain. Preserve uncertainty in the probability distribution.\n",
+          "criteria": {
+            "sufficient": "Stock will be sufficient through the period",
+            "shortfall": "There will be a stock shortfall during the period"
+          }
+        }
+      }
+    },
+    "reference": {
+      "kind": "stated_probability",
+      "probability": 0.3,
+      "target": "shortfall"
+    }
+  },
+  {
+    "id": "forecast:inventory:0.30:0:boolean",
+    "group": "inventory",
+    "request": {
+      "state": "\nDemand planning report, SKU 44120, week commencing Monday.\n\nThe forecasting model was run on the last 18 months of sales with the current\non-hand position of 4,180 units and the confirmed inbound of 1,200 units.\n\nModel output:\n- Probability that stock is sufficient through the period: 70%\n- Probability of a shortfall during the period: 30%\n\nThe model has been stable for six weeks.\n",
+      "questions": {
+        "answer": {
+          "type": "boolean",
+          "instructions": "\nDetermine whether the following proposition is true of the situation described:\nThere will be a stock shortfall during the period.\n\nThe report may describe genuine uncertainty. Do not assume that the most likely\noutcome is certain. Preserve uncertainty in the probability.\n",
+          "criteria": {
+            "true": "There will be a stock shortfall during the period",
+            "false": "Not: There will be a stock shortfall during the period"
+          }
+        }
+      }
+    },
+    "reference": {
+      "kind": "stated_probability",
+      "probability": 0.3,
+      "target": "shortfall"
+    }
+  }
+]

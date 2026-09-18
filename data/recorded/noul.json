@@ -1,0 +1,5992 @@
+[
+  {
+    "id": "shard2-0",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.46
+  },
+  {
+    "id": "shard2-1",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.46
+  },
+  {
+    "id": "shard2-2",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.46
+  },
+  {
+    "id": "shard2-3",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-4",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-5",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-6",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.48
+  },
+  {
+    "id": "shard2-7",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.46
+  },
+  {
+    "id": "shard2-8",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-9",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.46
+  },
+  {
+    "id": "shard2-10",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-11",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-12",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-13",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-14",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-15",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-16",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.49
+  },
+  {
+    "id": "shard2-17",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.48
+  },
+  {
+    "id": "shard2-18",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-19",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.48
+  },
+  {
+    "id": "shard2-20",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-21",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.49
+  },
+  {
+    "id": "shard2-22",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.46
+  },
+  {
+    "id": "shard2-23",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.45
+  },
+  {
+    "id": "shard2-24",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.48
+  },
+  {
+    "id": "shard2-25",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.49
+  },
+  {
+    "id": "shard2-26",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.45
+  },
+  {
+    "id": "shard2-27",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-28",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.46
+  },
+  {
+    "id": "shard2-29",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.46
+  },
+  {
+    "id": "shard2-30",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.45
+  },
+  {
+    "id": "shard2-31",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-32",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.45
+  },
+  {
+    "id": "shard2-33",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-34",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-35",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.48
+  },
+  {
+    "id": "shard2-36",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-37",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.48
+  },
+  {
+    "id": "shard2-38",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.46
+  },
+  {
+    "id": "shard2-39",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.48
+  },
+  {
+    "id": "shard2-40",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-41",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-42",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-43",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-44",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-45",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.45
+  },
+  {
+    "id": "shard2-46",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.48
+  },
+  {
+    "id": "shard2-47",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-48",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-49",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.48
+  },
+  {
+    "id": "shard2-50",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-51",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-52",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.48
+  },
+  {
+    "id": "shard2-53",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.46
+  },
+  {
+    "id": "shard2-54",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.46
+  },
+  {
+    "id": "shard2-55",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-56",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.46
+  },
+  {
+    "id": "shard2-57",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.48
+  },
+  {
+    "id": "shard2-58",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.47
+  },
+  {
+    "id": "shard2-59",
+    "family": "shard_n2",
+    "n": 2,
+    "chance": 0.5,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.46
+  },
+  {
+    "id": "shard3-60",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-61",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-62",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.3
+  },
+  {
+    "id": "shard3-63",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-64",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.3
+  },
+  {
+    "id": "shard3-65",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.3
+  },
+  {
+    "id": "shard3-66",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-67",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-68",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.3
+  },
+  {
+    "id": "shard3-69",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-70",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-71",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.29
+  },
+  {
+    "id": "shard3-72",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-73",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-74",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.3
+  },
+  {
+    "id": "shard3-75",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-76",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.3
+  },
+  {
+    "id": "shard3-77",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.3
+  },
+  {
+    "id": "shard3-78",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-79",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.3
+  },
+  {
+    "id": "shard3-80",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-81",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-82",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-83",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.3
+  },
+  {
+    "id": "shard3-84",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-85",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-86",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-87",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-88",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-89",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.3
+  },
+  {
+    "id": "shard3-90",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-91",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.29
+  },
+  {
+    "id": "shard3-92",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-93",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-94",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-95",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-96",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-97",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.3
+  },
+  {
+    "id": "shard3-98",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-99",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.33
+  },
+  {
+    "id": "shard3-100",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-101",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-102",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.3
+  },
+  {
+    "id": "shard3-103",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-104",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.3
+  },
+  {
+    "id": "shard3-105",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-106",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-107",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-108",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-109",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-110",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-111",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-112",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-113",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-114",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.33
+  },
+  {
+    "id": "shard3-115",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.31
+  },
+  {
+    "id": "shard3-116",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.3
+  },
+  {
+    "id": "shard3-117",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.3
+  },
+  {
+    "id": "shard3-118",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.32
+  },
+  {
+    "id": "shard3-119",
+    "family": "shard_n3",
+    "n": 3,
+    "chance": 0.3333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.32
+  },
+  {
+    "id": "shard4-120",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-121",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-122",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-123",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-124",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-125",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.26
+  },
+  {
+    "id": "shard4-126",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-127",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-128",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-129",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.26
+  },
+  {
+    "id": "shard4-130",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-131",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.23
+  },
+  {
+    "id": "shard4-132",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-133",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.23
+  },
+  {
+    "id": "shard4-134",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-135",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-136",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-137",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-138",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-139",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-140",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-141",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-142",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-143",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-144",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-145",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.26
+  },
+  {
+    "id": "shard4-146",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-147",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-148",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.26
+  },
+  {
+    "id": "shard4-149",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-150",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.26
+  },
+  {
+    "id": "shard4-151",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.26
+  },
+  {
+    "id": "shard4-152",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-153",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-154",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-155",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-156",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-157",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-158",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-159",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-160",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-161",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-162",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-163",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-164",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-165",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-166",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-167",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-168",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-169",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-170",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-171",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-172",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-173",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-174",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-175",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.24
+  },
+  {
+    "id": "shard4-176",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-177",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.26
+  },
+  {
+    "id": "shard4-178",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard4-179",
+    "family": "shard_n4",
+    "n": 4,
+    "chance": 0.25,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.25
+  },
+  {
+    "id": "shard6-180",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-181",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-182",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-183",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-184",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-185",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-187",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-188",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-189",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-190",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-191",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-192",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-193",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-194",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.23
+  },
+  {
+    "id": "shard6-195",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-196",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-197",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-198",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-199",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-200",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-201",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-202",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-203",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-204",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.2
+  },
+  {
+    "id": "shard6-205",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-206",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-207",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-208",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-209",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-210",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-211",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-212",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-213",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-214",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-215",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-216",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-217",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-218",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-219",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-220",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-221",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-222",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-223",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.2
+  },
+  {
+    "id": "shard6-224",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-225",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-226",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-227",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-228",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-229",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-230",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-231",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.2
+  },
+  {
+    "id": "shard6-232",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-233",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-234",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-235",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "shard6-236",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-237",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-238",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard6-239",
+    "family": "shard_n6",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "shard8-240",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-241",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard8-242",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard8-243",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-244",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard8-245",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-246",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard8-247",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-248",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-249",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-250",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-251",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-252",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-253",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard8-254",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-255",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard8-256",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-257",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard8-258",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard8-259",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-260",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-261",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-262",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard8-263",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-264",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard8-265",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-266",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-267",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-268",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard8-269",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.18
+  },
+  {
+    "id": "shard8-270",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-271",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-272",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-273",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard8-274",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard8-275",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-276",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-277",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-278",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-279",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-280",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard8-281",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-282",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-283",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard8-284",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard8-285",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard8-286",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-287",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard8-288",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-289",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard8-290",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-291",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard8-292",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-293",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard8-294",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard8-295",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard8-296",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard8-297",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard8-298",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard8-299",
+    "family": "shard_n8",
+    "n": 8,
+    "chance": 0.125,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-300",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-301",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard10-302",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard10-303",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-304",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-305",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-306",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-307",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-308",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-309",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-310",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-311",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-312",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-313",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-08",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-314",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-315",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-316",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-08",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard10-317",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-318",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-319",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard10-320",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-321",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-322",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-323",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-08",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-324",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard10-325",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-326",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "shard10-327",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-328",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-329",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-330",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-08",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-331",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-332",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-333",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-08",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-334",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-335",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-336",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-337",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "shard10-338",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-08",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-339",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-340",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-08",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-341",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-342",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-343",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-344",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-345",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.16
+  },
+  {
+    "id": "shard10-346",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-347",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-348",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-349",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-350",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-351",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-352",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-353",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-354",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "shard10-355",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard10-356",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard10-357",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard10-358",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard10-359",
+    "family": "shard_n10",
+    "n": 10,
+    "chance": 0.1,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-360",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-361",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "shard12-362",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-363",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-364",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-365",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "shard12-366",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-367",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-368",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-369",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-370",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-371",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-372",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-373",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-374",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard12-375",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-376",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-377",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-378",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard12-379",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard12-380",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-381",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-382",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-383",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-08",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-384",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-385",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-386",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard12-387",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-388",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-389",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-390",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-391",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-392",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard12-393",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-394",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-395",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-396",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-397",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-398",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-399",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-400",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard12-401",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard12-402",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard12-403",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-404",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-405",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "shard12-406",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-407",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-408",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "shard12-409",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-410",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-411",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-412",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-413",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-414",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-415",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "shard12-416",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-417",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "shard12-418",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-08",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard12-419",
+    "family": "shard_n12",
+    "n": 12,
+    "chance": 0.08333333333333333,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard16-420",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-14",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-421",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-422",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-13",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-423",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-14",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard16-424",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-425",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-426",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-08",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard16-427",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-13",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-428",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-429",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-12",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-430",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-08",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-431",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-432",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard16-433",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-434",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-435",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard16-436",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-437",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.16
+  },
+  {
+    "id": "shard16-438",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-439",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-440",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-441",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-14",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-442",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard16-443",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-444",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-445",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-13",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-446",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-447",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard16-448",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-449",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-450",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-15",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-451",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-452",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-453",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard16-454",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-455",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-15",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-456",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-457",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-12",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard16-458",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard16-459",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-460",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-461",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-15",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-462",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-463",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-12",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-464",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-13",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-465",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.13
+  },
+  {
+    "id": "shard16-466",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-15",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-467",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-13",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-468",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-12",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-469",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-470",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-471",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-13",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-472",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-14",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard16-473",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-474",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard16-475",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-476",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-477",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard16-478",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-15",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard16-479",
+    "family": "shard_n16",
+    "n": 16,
+    "chance": 0.0625,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-480",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-13",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-481",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-14",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-482",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-483",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-484",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-485",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-486",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-487",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-14",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-488",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-489",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-19",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-490",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-13",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-491",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-08",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-492",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-19",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-493",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-12",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-494",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-02",
+    "correct": false,
+    "reported": 0.13
+  },
+  {
+    "id": "shard20-495",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-496",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-17",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-497",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-498",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-14",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-499",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-500",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-501",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard20-502",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-17",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "shard20-503",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-504",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-505",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-506",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-09",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-507",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-19",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-508",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-509",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-510",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-511",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-512",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-15",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-513",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-514",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-515",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-12",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-516",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-03",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-517",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-518",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-519",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-520",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-521",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-522",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-05",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-523",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-524",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-12",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-525",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-11",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-526",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-527",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-528",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-529",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-530",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-531",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-06",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-532",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-15",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-533",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-534",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-10",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-535",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-00",
+    "correct": true,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-536",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-07",
+    "correct": false,
+    "reported": 0.14
+  },
+  {
+    "id": "shard20-537",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-01",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "shard20-538",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-04",
+    "correct": false,
+    "reported": 0.16
+  },
+  {
+    "id": "shard20-539",
+    "family": "shard_n20",
+    "n": 20,
+    "chance": 0.05,
+    "target": "shard-00",
+    "truth": "shard-08",
+    "correct": false,
+    "reported": 0.15
+  },
+  {
+    "id": "die-540",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "2",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "die-541",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "3",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-542",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "5",
+    "correct": false,
+    "reported": 0.2
+  },
+  {
+    "id": "die-543",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "3",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "die-544",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "6",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "die-545",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "6",
+    "correct": false,
+    "reported": 0.2
+  },
+  {
+    "id": "die-546",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "3",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "die-547",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "5",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-548",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "1",
+    "correct": true,
+    "reported": 0.19
+  },
+  {
+    "id": "die-549",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "5",
+    "correct": false,
+    "reported": 0.2
+  },
+  {
+    "id": "die-550",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "3",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-551",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "4",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-552",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "1",
+    "correct": true,
+    "reported": 0.19
+  },
+  {
+    "id": "die-553",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "5",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-554",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "5",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-555",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "6",
+    "correct": false,
+    "reported": 0.2
+  },
+  {
+    "id": "die-556",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "6",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-557",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "5",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-558",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "6",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "die-559",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "4",
+    "correct": false,
+    "reported": 0.2
+  },
+  {
+    "id": "die-560",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "2",
+    "correct": false,
+    "reported": 0.2
+  },
+  {
+    "id": "die-561",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "3",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-562",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "1",
+    "correct": true,
+    "reported": 0.2
+  },
+  {
+    "id": "die-563",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "3",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-564",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "5",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-565",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "5",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "die-566",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "2",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-567",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "6",
+    "correct": false,
+    "reported": 0.2
+  },
+  {
+    "id": "die-568",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "6",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-569",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "4",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-570",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "1",
+    "correct": true,
+    "reported": 0.18
+  },
+  {
+    "id": "die-571",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "1",
+    "correct": true,
+    "reported": 0.2
+  },
+  {
+    "id": "die-572",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "3",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-573",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "6",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "die-574",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "1",
+    "correct": true,
+    "reported": 0.19
+  },
+  {
+    "id": "die-575",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "2",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-576",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "1",
+    "correct": true,
+    "reported": 0.2
+  },
+  {
+    "id": "die-577",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "6",
+    "correct": false,
+    "reported": 0.22
+  },
+  {
+    "id": "die-578",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "6",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-579",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "1",
+    "correct": true,
+    "reported": 0.18
+  },
+  {
+    "id": "die-580",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "4",
+    "correct": false,
+    "reported": 0.2
+  },
+  {
+    "id": "die-581",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "4",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-582",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "2",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-583",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "5",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-584",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "4",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "die-585",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "3",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "die-586",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "4",
+    "correct": false,
+    "reported": 0.2
+  },
+  {
+    "id": "die-587",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "6",
+    "correct": false,
+    "reported": 0.2
+  },
+  {
+    "id": "die-588",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "4",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-589",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "4",
+    "correct": false,
+    "reported": 0.2
+  },
+  {
+    "id": "die-590",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "4",
+    "correct": false,
+    "reported": 0.17
+  },
+  {
+    "id": "die-591",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "5",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-592",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "5",
+    "correct": false,
+    "reported": 0.2
+  },
+  {
+    "id": "die-593",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "5",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-594",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "3",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "die-595",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "4",
+    "correct": false,
+    "reported": 0.21
+  },
+  {
+    "id": "die-596",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "4",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "die-597",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "4",
+    "correct": false,
+    "reported": 0.19
+  },
+  {
+    "id": "die-598",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "3",
+    "correct": false,
+    "reported": 0.18
+  },
+  {
+    "id": "die-599",
+    "family": "fair_die",
+    "n": 6,
+    "chance": 0.16666666666666666,
+    "target": "1",
+    "truth": "5",
+    "correct": false,
+    "reported": 0.18
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "example:fair-die",
+    "group": "uniform_die",
+    "request": {
+      "state": "\nA fair six-sided die was rolled exactly once.\nThe result of the roll is hidden.\nEach face 1 through 6 has equal probability.\n",
+      "questions": {
+        "answer": {
+          "type": "choice",
+          "instructions": "\nInfer which outcome actually occurred.\n\nThe situation may be genuinely uncertain. Do not assume that the most likely\noutcome is certain. Preserve uncertainty in the probability distribution.\n",
+          "criteria": {
+            "face_1": "The hidden outcome is face 1",
+            "face_2": "The hidden outcome is face 2",
+            "face_3": "The hidden outcome is face 3",
+            "face_4": "The hidden outcome is face 4",
+            "face_5": "The hidden outcome is face 5",
+            "face_6": "The hidden outcome is face 6"
+          }
+        }
+      }
+    },
+    "reference": {
+      "kind": "known_distribution",
+      "probabilities": {
+        "face_1": 0.16666666666666666,
+        "face_2": 0.16666666666666666,
+        "face_3": 0.16666666666666666,
+        "face_4": 0.16666666666666666,
+        "face_5": 0.16666666666666666,
+        "face_6": 0.16666666666666666
+      }
+    }
+  }
+]

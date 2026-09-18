@@ -1,0 +1,68 @@
+[
+  {
+    "id": "noul:shard4-120",
+    "group": "shard_n4",
+    "request": {
+      "state": "\nA request with no session affinity was assigned to one of 4 shards by\nconsistent hashing over a randomly generated request id. The hash spreads ids\nuniformly, so each of the 4 shards is equally likely.\nLog retention expired before anyone looked.\n",
+      "questions": {
+        "answer": {
+          "type": "boolean",
+          "instructions": "\nDetermine whether the following proposition is true of the situation described:\nThe request was handled by shard-00.\n\nThe situation may be genuinely uncertain. Do not assume that the most likely\noutcome is certain. Preserve uncertainty in the probability.\n",
+          "criteria": {
+            "true": "The request was handled by shard-00",
+            "false": "Not: The request was handled by shard-00"
+          }
+        }
+      }
+    },
+    "reference": {
+      "kind": "known_probability",
+      "probability": 0.25,
+      "target": "shard-00"
+    }
+  },
+  {
+    "id": "noul:die-540",
+    "group": "fair_die",
+    "request": {
+      "state": "\nA player rolled a six-sided die exactly once at a games night.\nThe die is fair, so every face is equally likely.\nLog retention expired before anyone looked.\n",
+      "questions": {
+        "answer": {
+          "type": "boolean",
+          "instructions": "\nDetermine whether the following proposition is true of the situation described:\nThe die shows 1.\n\nThe situation may be genuinely uncertain. Do not assume that the most likely\noutcome is certain. Preserve uncertainty in the probability.\n",
+          "criteria": {
+            "true": "The die shows 1",
+            "false": "Not: The die shows 1"
+          }
+        }
+      }
+    },
+    "reference": {
+      "kind": "known_probability",
+      "probability": 0.16666666666666666,
+      "target": "1"
+    }
+  },
+  {
+    "id": "noul:shard20-480",
+    "group": "shard_n20",
+    "request": {
+      "state": "\nA request with no session affinity was assigned to one of 20 shards by\nconsistent hashing over a randomly generated request id. The hash spreads ids\nuniformly, so each of the 20 shards is equally likely.\nLog retention expired before anyone looked.\n",
+      "questions": {
+        "answer": {
+          "type": "boolean",
+          "instructions": "\nDetermine whether the following proposition is true of the situation described:\nThe request was handled by shard-00.\n\nThe situation may be genuinely uncertain. Do not assume that the most likely\noutcome is certain. Preserve uncertainty in the probability.\n",
+          "criteria": {
+            "true": "The request was handled by shard-00",
+            "false": "Not: The request was handled by shard-00"
+          }
+        }
+      }
+    },
+    "reference": {
+      "kind": "known_probability",
+      "probability": 0.05,
+      "target": "shard-00"
+    }
+  }
+]

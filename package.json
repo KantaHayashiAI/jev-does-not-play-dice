@@ -1,0 +1,22 @@
+{
+  "name": "jev-does-not-play-dice",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Recorded Jev probability experiments, offline analysis, and API examples.",
+  "engines": {
+    "node": ">=22.16.0"
+  },
+  "scripts": {
+    "preview": "node src/run.mjs",
+    "experiment": "node --env-file-if-exists=.env.local src/run.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "analyze": "python3 scripts/analyze.py",
+    "plots": "python3 scripts/plot.py",
+    "build:requests": "node scripts/build_requests.mjs"
+  },
+  "dependencies": {
+    "ai": "7.0.105"
+  },
+  "license": "MIT"
+}
