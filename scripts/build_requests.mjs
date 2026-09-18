@@ -15,11 +15,13 @@ for(const [suite, factory] of Object.entries(caseFactories)) {
  console.log(`${suite}: ${cases.length} reconstructed requests${check?' (matched)':''}`);
 }
 if(!check) {
- const dice=caseFactories.repeat()[0];
+ const dice=caseFactories.dice().find(c=>c.id==='dice:d0020');
+ const diceOrdered=caseFactories.repeat()[0];
  const noul=caseFactories.noul();
  const forecast=caseFactories.forecast();
  const examples={
-  dice:[{...dice,id:'example:fair-die'}],
+  dice:[{...dice,id:'example:dice-d0020'}],
+  dice_ordered:[{...diceOrdered,id:'example:fair-die'}],
   noul:['shard_n4','fair_die','shard_n20'].map(g=>noul.find(c=>c.group===g)),
   forecast:forecast.filter(c=>c.group==='inventory'&&c.reference.probability===.3&&c.provenance.variant===0)
  };

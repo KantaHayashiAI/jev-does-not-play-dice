@@ -27,8 +27,13 @@ test('references and observed values are not in the SDK payload',()=>{
  assert.deepEqual(Object.keys(p),['model','state','questions','maxRetries','abortSignal']);
  assert(!JSON.stringify(p).includes('secret-hidden-outcome-marker'));assert(!JSON.stringify(p).includes('private-marker'));
 });
-test('example die uses noninteger keys for explicit order',()=>{
+test('default example die is sweep request d0020, as shown in the article',()=>{
  const [c]=loadCases(path.join(root,'examples/dice.json'));
+ const src=caseFactories.dice().find(x=>x.id==='dice:d0020');
+ assert.deepEqual(c.request,src.request);assert.deepEqual(Object.keys(c.request.questions.answer.criteria),['1','2','3','4','5','6']);
+});
+test('ordered example die uses noninteger keys for explicit order',()=>{
+ const [c]=loadCases(path.join(root,'examples/dice_ordered.json'));
  const keys=Object.keys(c.request.questions.answer.criteria);
  assert(keys.every(k=>k.startsWith('face_')));
  assert.deepEqual(Object.keys(Object.fromEntries([...keys].reverse().map(k=>[k,k]))),[...keys].reverse());

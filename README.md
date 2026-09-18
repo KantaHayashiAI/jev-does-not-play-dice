@@ -47,7 +47,7 @@ node src/run.mjs --input examples/noul.json
 node src/run.mjs --input examples/forecast.json
 ```
 
-These examples contain 1, 3, and 2 requests respectively. Preview is the default and needs neither an API key nor installed npm dependencies. Edit the example JSON to try other inputs.
+These examples contain 1, 3, and 2 requests respectively. `examples/dice.json` is trial `d0020` from the 400-trial die sweep, the request shown in the article; its recorded result is 0.83, the median. `examples/dice_ordered.json` is a fixed-wording die prompt with `face_N` option keys, which keep the order you write them in (integer-like keys such as `"1"` are always sorted by JavaScript); its recorded results are lower, about 0.72. Preview is the default and needs neither an API key nor installed npm dependencies. Edit the example JSON to try other inputs.
 
 ### Run an experiment
 
