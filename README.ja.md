@@ -3,6 +3,7 @@
 [English](README.md) | 日本語
 
 Jevの確率出力を検証するコード・保存結果・分析スクリプトです。公平な抽選、Noul（Yes or No）、予測文書の3種類の実験を収録しています。
+解説記事：[Jevはサイコロを振らない｜「較正された確率」の意外な落とし穴](https://note.com/kantahayashiai/n/n4c54eed30787)（note）
 
 ## Results
 
