@@ -4,6 +4,8 @@ English | [日本語](README.ja.md)
 
 Code, recorded outputs, and analysis scripts for probability-output experiments with Jev: fair random draws, Noul (Yes/No) questions, and forecast documents.
 
+Write-up: [Jev Does Not Play Dice: 83% probability, 19% accuracy on a hidden fair die roll](https://kantahayashiai.github.io/posts/jev-does-not-play-dice/) (English) / [Jevはサイコロを振らない](https://note.com/kantahayashiai/n/n4c54eed30787) (日本語, original).
+
 ## Results
 
 On the fair random tasks, Jev's Choice output often assigned a high probability to its selected option even though the model had no information about the hidden outcome. The issue is not that Jev failed to predict a random event; the observed accuracy stayed close to chance, as expected. The notable result is that the reported probabilities did not reflect that known uncertainty.
@@ -12,12 +14,12 @@ Noul was closer to the reference probability in some conditions, but still over-
 
 | Experiment | Expected / reference probability | Mean reported probability | Observed accuracy |
 |---|---:|---:|---:|
-| Fair six-sided die — Choice | 16.7% | **82.9%** | 19.0% (76/400) |
-| Fair coin — Choice | 50.0% | **92.0%** | 52.0% |
-| 6 equiprobable options — Noul | 16.7% | **21.4%** | — |
-| 20 equiprobable options — Noul | 5.0% | **15.0%** | — |
-| Forecast document: stated 45% — Choice | 45.0% | **6.6%** | — |
-| Forecast document: stated 55% — Choice | 55.0% | **95.9%** | — |
+| Fair six-sided die (Choice) | 16.7% | **82.9%** | 19.0% (76/400) |
+| Fair coin (Choice) | 50.0% | **92.0%** | 52.0% |
+| Fair six-sided die (Noul) | 16.7% | **19.2%** | — |
+| 20 equiprobable options (Noul) | 5.0% | **15.0%** | — |
+| Forecast document: stated 45% (Choice) | 45.0% | **6.6%** | — |
+| Forecast document: stated 55% (Choice) | 55.0% | **95.9%** | — |
 
 These results are specific to the prompts and conditions in this repository. They do not establish that Jev probabilities are generally unusable.
 
