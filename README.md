@@ -92,6 +92,7 @@ docs/           Methods and usage notes
 
 Noul uses `type: "boolean"` in the Vercel AI SDK. Recorded results and new runs are kept separate. Forecast-document percentages are stated values, not independently verified event probabilities.
 
+The historical responses do not themselves record an exact model revision. However, the experiments were run during the launch window when jev-1.13.0 was the only publicly available Jev version.
 Independent project; not affiliated with TypeSafe or Vercel.
 
 ## License
