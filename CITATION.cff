@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Jev Does Not Play Dice"
+abstract: "Calibration check of Jev's Choice and Noul probabilities on inputs with a known true probability (hidden fair dice, coins, spinners) and on synthetic forecast documents, with recorded responses and offline recomputation."
+authors:
+  - family-names: Hayashi
+    given-names: Kanta
+repository-code: "https://github.com/KantaHayashiAI/jev-does-not-play-dice"
+url: "https://kantahayashiai.github.io/posts/jev-does-not-play-dice/"
+license: MIT
+date-released: 2026-09-20
